@@ -7,6 +7,7 @@ https://chat-web-app-using-react.vercel.app/
 Welcome to the AI Chat Web App! This project showcases a chat application built with React, TypeScript, and Tailwind CSS. The application allows users to view chat conversations between themselves and an AI, offering a dynamic and interactive experience. Users can easily filter through different chat sessions by searching for specific names, making it convenient to access past interactions.
 
 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 ⚙️
+
 𝐂𝐡𝐚𝐭 𝐃𝐢𝐬𝐩𝐥𝐚𝐲: View chat conversations between the user and AI.
 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐞 𝐃𝐞𝐬𝐢𝐠𝐧: Optimized for both mobile and desktop devices, ensuring a seamless user experience across platforms.
 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐑𝐄𝐒𝐓𝐟𝐮𝐥 𝐀𝐏𝐈: Efficiently fetch chat sessions and conversation data through a robust RESTful API.
