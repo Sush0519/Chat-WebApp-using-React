@@ -159,7 +159,7 @@ export default function ChatList({
           {filteredSessions.map((session, index) => (
             <div key={`${session.id}-${index}`}>
               <div
-                className="rounded-xl mt-2 py-2 bg-white cursor-pointer border-b-[1px] border-r-[1px] border-gray-200"
+                className="rounded-xl hover:bg-[#c5cfe9] mt-1 py-2 bg-white cursor-pointer border-b-[1px] border-r-[1px] border-gray-200"
                 onClick={() => {
                   const imageToPass = session.image || "";
                   onSelectSession(session.id, imageToPass);
